@@ -1,0 +1,3 @@
+numpy
+matplotlib
+# scipy  # 可选，用于高程插值；无 scipy 时自动降级为最近邻插值
